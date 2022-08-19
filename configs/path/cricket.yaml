@@ -1,0 +1,5 @@
+base: '/shared/youngkim/???'
+data: '/shared/youngkim/???'
+submissions: '/shared/youngkim/???/submissions/'
+weights: '/shared/youngkim/???/weights/'
+pretrained: '/shared/youngkim/???/weights/original-07:02:58:03/10.pth'
